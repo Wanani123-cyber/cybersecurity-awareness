@@ -9,3 +9,6 @@ CYBERSECURITY AWARENESS & INCIDENT RESPONSE NOTES
 INCIDENT REPORTING CONTACTS:
    - SOC Email: soc-alert@zuluglobal.com
    - SOC Hotline: +1 (800) 555-0199
+
+git add cybersecurity_awareness.txt
+git commit -m "Add cybersecurity awareness tips and incident reporting notes"
