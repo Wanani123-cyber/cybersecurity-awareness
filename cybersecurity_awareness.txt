@@ -1,1 +1,11 @@
+=====================================================
+CYBERSECURITY AWARENESS & INCIDENT RESPONSE NOTES
+=====================================================
+1. Always verify sender email domain addresses before clicking links.
+2. Report suspicious communications immediately to the SOC team.
+3. Keep operating systems, applications, and anti-malware tools updated.
+4. Never insert untrusted USB drives into enterprise or personal workstations.
 
+INCIDENT REPORTING CONTACTS:
+   - SOC Email: soc-alert@zuluglobal.com
+   - SOC Hotline: +1 (800) 555-0199
